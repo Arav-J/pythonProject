@@ -19,6 +19,7 @@ for i in range(len(a)):
     for j in range(len(a[i])):
         s += a[i][j]
 print(s)
+print(s)
 
 n = 4
 a = [0] * n
