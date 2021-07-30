@@ -42,5 +42,5 @@ print(odd_grid([]), False)
 
 test_cases = [odd_grid([])]
 
-for ... in ...:
+for __name__ in ...:
     print()
